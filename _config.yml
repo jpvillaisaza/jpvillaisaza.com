@@ -1,0 +1,6 @@
+title: jpvillaisaza.com
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
