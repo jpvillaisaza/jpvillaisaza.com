@@ -1,5 +1,7 @@
 title: jpvillaisaza.com
 
+email: noreply@jpvillaisaza.com
+
 exclude:
 - Gemfile
 - Gemfile.lock
