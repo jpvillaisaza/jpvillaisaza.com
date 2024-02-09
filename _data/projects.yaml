@@ -1,0 +1,32 @@
+- title: Cain
+  description:
+    Category theory applied to functional programming (undergraduate
+    project)
+  url: https://github.com/jpvillaisaza/cain
+
+- title: Ergonautas
+  description: Programación funcional en español
+  url: https://github.com/jpvillaisaza/ergonautas
+
+- title: Hangman
+  url: https://github.com/jpvillaisaza/hangman
+  technologies:
+  - Elm
+
+- title: Hermes
+  description: Agregador de artículos de opinión de Colombia
+  url: https://github.com/jpvillaisaza/hermes
+  technologies:
+  - Haskell
+
+- title: Licensor
+  description: A license compatibility helper for Haskell
+  url: https://github.com/jpvillaisaza/licensor
+  technologies:
+  - Haskell
+
+- title: Zenith
+  description: Fuel economy calculator
+  url: https://github.com/jpvillaisaza/zenith
+  technologies:
+  - Elm
