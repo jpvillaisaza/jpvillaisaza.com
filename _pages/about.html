@@ -2,3 +2,13 @@
 permalink: /about/
 title: About
 ---
+
+<h3>Follow</h3>
+
+<ul>
+  {% for item in site.data.social-links %}
+    <li>
+      <a href="{{ item.url }}">{{ item.platform }}</a>
+    </li>
+  {% endfor %}
+</ul>

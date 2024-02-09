@@ -1,0 +1,18 @@
+---
+permalink: /projects/
+title: Projects
+---
+
+<ul>
+  {% for project in site.data.projects %}
+    <li>
+      <strong>{{ project.title }}</strong>
+      <p>{{ project.description }}</p>
+      <p><a href="{{ project.url }}">{{ project.url }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<a href="https://github.com/jpvillaisaza">
+  https://github.com/jpvillaisaza
+</a>
