@@ -1,8 +1,30 @@
 title: jpvillaisaza.com
+author: Juan Pedro Villa Isaza
 
 email: 584947+jpvillaisaza@users.noreply.github.com
 
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+include:
+- _pages
+
 exclude:
-- Gemfile
-- Gemfile.lock
 - README.md
+
+permalink: pretty
+timezone: America/Bogota
+
+defaults:
+- scope:
+    path: ""
+    type: "pages"
+  values:
+    layout: page
+- scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: post
