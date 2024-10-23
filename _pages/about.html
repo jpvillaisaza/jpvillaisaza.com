@@ -3,7 +3,15 @@ permalink: /about/
 title: About
 ---
 
-<h2>Follow</h2>
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li>
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  </li>
+</ul>
+
+<h2 id="follow">Follow</h2>
 
 <ul>
   {% for item in site.data.social-links %}
@@ -12,3 +20,19 @@ title: About
     </li>
   {% endfor %}
 </ul>
+
+<h2 id="projects">Projects</h2>
+
+<ul>
+  {% for project in site.data.projects %}
+    <li>
+      <strong>{{ project.title }}</strong>
+      <p>{{ project.description }}</p>
+      <p><a href="{{ project.url }}">{{ project.url }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<a href="https://github.com/jpvillaisaza">
+  https://github.com/jpvillaisaza
+</a>
