@@ -1,11 +1,31 @@
-- platform: GitHub
-  url: https://github.com/jpvillaisaza
+primary:
+  - platform: Bluesky
+    url: https://bsky.app/profile/jpvillaisaza.bsky.social
 
-- platform: Instagram
-  url: https://www.instagram.com/jpvillaisaza/
+  - platform: GitHub
+    url: https://github.com/jpvillaisaza
 
-- platform: LinkedIn
-  url: https://www.linkedin.com/in/jpvillaisaza/
+  - platform: Instagram
+    url: https://www.instagram.com/jpvillaisaza/
 
-- platform: Mastodon
-  url: https://mastodon.social/@jpvillaisaza
+  - platform: Mastodon
+    url: https://mastodon.social/@jpvillaisaza
+
+other:
+  - platform: Facebook
+    url: https://www.facebook.com/jpvillaisaza
+
+  - platform: GitLab
+    url: https://gitlab.com/jpvillaisaza
+
+  - platform: LinkedIn
+    url: https://www.linkedin.com/in/jpvillaisaza/
+
+  - platform: Stack Overflow
+    url: https://stackoverflow.com/users/2102854/jpvillaisaza
+
+  - platform: Threads
+    url: https://www.threads.net/@jpvillaisaza
+
+  - platform: X
+    url: https://x.com/jpvillaisaza
