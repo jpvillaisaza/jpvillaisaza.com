@@ -2,3 +2,54 @@
 layout: default
 permalink: /
 ---
+
+<h1 id="about">About</h1>
+
+Hey, I'm Juan! I'm a software developer from Medellín, Colombia. I
+like functional programming and use Haskell most of the time. I've
+worked at Stack Builders since 2014.
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li>
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  </li>
+</ul>
+
+<h2 id="follow">Follow</h2>
+
+<ul>
+  {% for item in site.data.social-links.primary %}
+    <li>
+      <a href="{{ item.url }}">{{ item.platform }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<details>
+  <summary>Other</summary>
+  <ul>
+    {% for item in site.data.social-links.other %}
+    <li>
+      <a href="{{ item.url }}">{{ item.platform }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</details>
+
+<h2 id="projects">Projects</h2>
+
+<ul>
+  {% for project in site.data.projects %}
+    <li>
+      <strong>{{ project.title }}</strong>
+      <p>{{ project.description }}</p>
+      <p><a href="{{ project.url }}">{{ project.url }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<a href="https://github.com/jpvillaisaza">
+  https://github.com/jpvillaisaza
+</a>

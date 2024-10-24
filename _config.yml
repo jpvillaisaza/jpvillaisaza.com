@@ -9,25 +9,20 @@ collections:
     permalink: /blog/:year/:month/:day/:title/
 
 include:
-- _pages
+  - _pages
 
 exclude:
-- README.md
+  - README.md
 
 permalink: pretty
 timezone: America/Bogota
 
 defaults:
-- scope:
-    path: ""
-    type: "pages"
-  values:
-    layout: page
-- scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: post
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
 
 plugins:
-- jekyll-redirect-from
+  - jekyll-redirect-from
