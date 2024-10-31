@@ -8,9 +8,6 @@ primary:
   - platform: Instagram
     url: https://www.instagram.com/jpvillaisaza/
 
-  - platform: Mastodon
-    url: https://mastodon.social/@jpvillaisaza
-
 other:
   - platform: Facebook
     url: https://www.facebook.com/jpvillaisaza
@@ -21,11 +18,8 @@ other:
   - platform: LinkedIn
     url: https://www.linkedin.com/in/jpvillaisaza/
 
+  - platform: Reddit
+    url: https://www.reddit.com/user/jpvillaisaza/
+
   - platform: Stack Overflow
     url: https://stackoverflow.com/users/2102854/jpvillaisaza
-
-  - platform: Threads
-    url: https://www.threads.net/@jpvillaisaza
-
-  - platform: X
-    url: https://x.com/jpvillaisaza
