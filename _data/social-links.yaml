@@ -1,6 +1,6 @@
 primary:
   - platform: Bluesky
-    url: https://bsky.app/profile/jpvillaisaza.bsky.social
+    url: https://bsky.app/profile/jpvillaisaza.com
 
   - platform: GitHub
     url: https://github.com/jpvillaisaza
@@ -14,9 +14,6 @@ other:
 
   - platform: GitLab
     url: https://gitlab.com/jpvillaisaza
-
-  - platform: LinkedIn
-    url: https://www.linkedin.com/in/jpvillaisaza/
 
   - platform: Reddit
     url: https://www.reddit.com/user/jpvillaisaza/
