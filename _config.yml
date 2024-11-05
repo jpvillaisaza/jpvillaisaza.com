@@ -3,6 +3,11 @@ author: Juan Pedro Villa Isaza
 
 email: 584947+jpvillaisaza@users.noreply.github.com
 
+social:
+  bluesky: https://bsky.app/profile/jpvillaisaza.com
+  github: https://github.com/jpvillaisaza
+  instagram: https://www.instagram.com/jpvillaisaza
+
 collections:
   posts:
     output: true
