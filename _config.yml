@@ -18,6 +18,7 @@ include:
 
 exclude:
   - README.md
+  - shell.nix
 
 permalink: pretty
 timezone: America/Bogota
