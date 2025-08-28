@@ -1,6 +1,17 @@
 ---
 layout: default
 permalink: /projects/
-redirect_to: /#projects
 title: Projects
 ---
+
+<h1>Projects</h1>
+
+<ul>
+  {% for project in site.data.projects %}
+    <li>
+      <strong>{{ project.title }}</strong>
+      <p>{{ project.description }}</p>
+      <p><a href="{{ project.url }}">{{ project.url }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
