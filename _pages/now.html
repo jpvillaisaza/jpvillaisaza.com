@@ -5,3 +5,63 @@ title: Now
 ---
 
 <h1>Now</h1>
+
+{% assign data = site.data.logs['2025'] -%}
+
+<h2>Reading</h2>
+
+{% assign books = data.books | where: 'status', 'reading' -%}
+{% if books.size > 0 %}
+<ul>
+  {% for book in books %}
+  <li>
+    <cite>{{ book.title }}</cite>
+    by {{ book.authors | array_to_sentence_string }}
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>
+  No books!
+</p>
+{% endif %}
+
+<h2>Watching</h2>
+
+{% assign movies = data.movies | where: 'status', 'watching' -%}
+{% if movies.size > 0 %}
+<ul>
+  {% for movie in movies %}
+  <li>
+    <cite>{{ movie.title }}</cite>
+    {% if movie.seasons and movie.seasons.size == 1 %}
+    (Season {{ movie.seasons }})
+    {% else %}
+    (Seasons {{ movie.seasons | array_to_sentence_string }})
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>
+  No movies!
+</p>
+{% endif %}
+
+<h2>Playing</h2>
+
+{% assign games = data.video_games | where: 'status', 'playing' -%}
+{% if games.size > 0 %}
+<ul>
+  {% for game in games %}
+  <li>
+    <cite>{{ game.title }}</cite>
+    ({{ game.platform }})
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>
+  No games!
+</p>
+{% endif %}

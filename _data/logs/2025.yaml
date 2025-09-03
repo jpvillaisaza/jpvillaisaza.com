@@ -1,0 +1,32 @@
+books:
+  - title: 'Nicely Said: Writing for the Web with Style and Purpose'
+    authors: [Nicole Fenton, Kate Kiefer Lee]
+    status: finished
+
+  - title: Why I Am Catholic (and You Should Be Too)
+    authors: [Brandon Vogt]
+    status: finished
+
+  - title: 'Waking Up: Searching for spirituality without religion'
+    authors: [Sam Harris]
+    status: finished
+
+  - title: Marco Aurelio y los límites del imperio
+    authors: [Pablo Montoya]
+    status: finished
+
+  - title: The Programmer's Brain
+    authors: [Felienne Hermans]
+    status: reading
+
+movies: # movies_series
+  - title: 'Gordon Ramsay: Uncharted'
+    type: series # or movie, needed?
+    seasons: [4]
+    imdb_id: tt9165706
+    status: watching
+
+video_games:
+  - title: Blue Prince
+    platform: PlayStation 5
+    status: playing
