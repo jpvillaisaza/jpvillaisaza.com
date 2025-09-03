@@ -15,164 +15,214 @@ books:
     authors: [Pablo Montoya]
     status: finished
 
-  - title: The Programmer's Brain
+  - title: >
+      The Programmer's Brain: What every programmer needs to know
+      about cognition
     authors: [Felienne Hermans]
     status: reading
 
 movies: # movies_series
   - title: 'Dune: Prophecy'
     seasons: [1]
+    imdb_id: tt10466872
     status: finished
 
   - title: 'Selena + Chef: Home for the Holidays'
     seasons: [1]
+    imdb_id: tt27791093
     status: finished
 
   - title: A Real Pain
+    imdb_id: tt21823606
     status: finished
 
   - title: Queer Eye
     seasons: [9]
+    imdb_id: tt7259746
     status: finished
 
   - title: Buy Now! The Shopping Conspiracy
+    imdb_id: tt34350086
     status: finished
 
   - title: Cien años de soledad
     seasons: [1]
+    imdb_id: tt9892936
     status: finished
 
   - title: 'Monsters: The Lyle and Erik Menendez Story 🏅'
+    imdb_id: tt13207736
     status: finished
 
   - title: The Menendez Brothers
+    imdb_id: tt33481094
     status: finished
 
   - title: Mr. McMahon
+    seasons: [1]
+    imdb_id: tt33301469
     status: finished
 
   - title: Inside the Mind of a Dog
+    imdb_id: tt32907397
     status: finished
 
   - title: Inside the Mind of a Cat
+    imdb_id: tt21340412
     status: finished
 
   - title: Conclave
+    imdb_id: tt20215234
     status: finished
 
   - title: Cunk on Life
+    imdb_id: tt34874258
     status: finished
 
-  - title: Secret World of Sound with David Attenborough
+  - title: Secret World of Sound with David Attenborough # mini series
+    imdb_id: tt31186319
     status: finished
 
-  - title: Our Oceans 😴
+  - title: Our Oceans 😴 # mini series
+    imdb_id: tt23181400
     status: finished
 
-  - title: How to Become a Mob Boss
+  - title: How to Become a Mob Boss # mini series
+    imdb_id: tt29541632
     status: finished
 
-  - title: Adolescence
+  - title: Adolescence # mini series
+    imdb_id: tt31806037
     status: finished
 
   - title: Avicii - I'm Tim
+    imdb_id: tt32138523
     status: finished
 
   - title: The Whale
+    imdb_id: tt13833688
     status: finished
 
   - title: Avicii - My Last Show
+    imdb_id: tt34619547
     status: finished
 
   - title: What's Next? The Future with Bill Gates
+    imdb_id: tt33184626
     status: finished
 
-  - title: 'Steve Martin and Martin Show: An Evening You Will Forget for the Rest of Your Life'
+  - title: >
+      Steve Martin and Martin Short: An Evening You Will Forget for
+      the Rest of Your Life
+    imdb_id: tt8075256
     status: finished
 
   - title: Martha
+    imdb_id: tt16227044
     status: finished
 
   - title: Shrinking
     seasons: [2]
+    imdb_id: tt15677150
     status: finished
 
   - title: Severance 🏅
     seasons: [2]
+    imdb_id: tt11280740
     status: finished
 
   - title: The Reluctant Traveler with Eugene Levy
     seasons: [2]
+    imdb_id: tt15822846
     status: finished
 
   - title: Silo 🏅
     seasons: [2]
+    imdb_id: tt14688458
     status: finished
 
   - title: Mythic Quest
     seasons: [4]
+    imdb_id: tt8879940
     status: finished
 
   - title: Omnivore
     seasons: [1]
+    imdb_id: tt18225192
     status: finished
 
   - title: Side Quest
     seasons: [1]
+    imdb_id: tt24512588
     status: finished
 
   - title: The Studio
     seasons: [1]
+    imdb_id: tt23649128
     status: finished
 
   - title: Hacks
     seasons: [4]
+    imdb_id: tt11815682
     status: finished
 
   - title: The Wild Robot
+    imdb_id: tt29623480
     status: finished
 
   - title: Slow Horses 🏅
     seasons: [1, 2, 3, 4]
+    imdb_id: tt5875444
     status: finished
 
   - title: The Secret Lives of Animals
     seasons: [1]
+    imdb_id: tt34555672
     status: finished
 
   - title: The Completely Made-Up Adventures of Dick Turpin
     seasons: [1]
+    imdb_id: tt19516036
     status: finished
 
-  - title: Black Bird
+  - title: Black Bird # mini series
     seasons: [1]
+    imdb_id: tt4301160
     status: finished
 
   - title: Murderbot
     seasons: [1]
+    imdb_id: tt30444310
     status: finished
 
-  - title: Lessons in Chemistry
+  - title: Lessons in Chemistry # mini series
     seasons: [1]
+    imdb_id: tt13911628
     status: finished
 
   - title: Your Friends & Neighbors
     seasons: [1]
+    imdb_id: tt30459041
     status: finished
 
   - title: Carême
     seasons: [1]
+    imdb_id: tt6418084
     status: finished
 
   - title: 'Vietnam: The War That Changed America'
+    seasons: [1]
+    imdb_id: tt35407689
     status: finished
 
   - title: Pachinko
     seasons: [1, 2]
+    imdb_id: tt8888462
     status: finished
 
   - title: Underdogs
     seasons: [1]
+    imdb_id: tt26229000
     status: finished
 
   - title: 'Gordon Ramsay: Uncharted'
