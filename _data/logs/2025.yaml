@@ -20,6 +20,161 @@ books:
     status: reading
 
 movies: # movies_series
+  - title: 'Dune: Prophecy'
+    seasons: [1]
+    status: finished
+
+  - title: 'Selena + Chef: Home for the Holidays'
+    seasons: [1]
+    status: finished
+
+  - title: A Real Pain
+    status: finished
+
+  - title: Queer Eye
+    seasons: [9]
+    status: finished
+
+  - title: Buy Now! The Shopping Conspiracy
+    status: finished
+
+  - title: Cien años de soledad
+    seasons: [1]
+    status: finished
+
+  - title: 'Monsters: The Lyle and Erik Menendez Story 🏅'
+    status: finished
+
+  - title: The Menendez Brothers
+    status: finished
+
+  - title: Mr. McMahon
+    status: finished
+
+  - title: Inside the Mind of a Dog
+    status: finished
+
+  - title: Inside the Mind of a Cat
+    status: finished
+
+  - title: Conclave
+    status: finished
+
+  - title: Cunk on Life
+    status: finished
+
+  - title: Secret World of Sound with David Attenborough
+    status: finished
+
+  - title: Our Oceans 😴
+    status: finished
+
+  - title: How to Become a Mob Boss
+    status: finished
+
+  - title: Adolescence
+    status: finished
+
+  - title: Avicii - I'm Tim
+    status: finished
+
+  - title: The Whale
+    status: finished
+
+  - title: Avicii - My Last Show
+    status: finished
+
+  - title: What's Next? The Future with Bill Gates
+    status: finished
+
+  - title: 'Steve Martin and Martin Show: An Evening You Will Forget for the Rest of Your Life'
+    status: finished
+
+  - title: Martha
+    status: finished
+
+  - title: Shrinking
+    seasons: [2]
+    status: finished
+
+  - title: Severance 🏅
+    seasons: [2]
+    status: finished
+
+  - title: The Reluctant Traveler with Eugene Levy
+    seasons: [2]
+    status: finished
+
+  - title: Silo 🏅
+    seasons: [2]
+    status: finished
+
+  - title: Mythic Quest
+    seasons: [4]
+    status: finished
+
+  - title: Omnivore
+    seasons: [1]
+    status: finished
+
+  - title: Side Quest
+    seasons: [1]
+    status: finished
+
+  - title: The Studio
+    seasons: [1]
+    status: finished
+
+  - title: Hacks
+    seasons: [4]
+    status: finished
+
+  - title: The Wild Robot
+    status: finished
+
+  - title: Slow Horses 🏅
+    seasons: [1, 2, 3, 4]
+    status: finished
+
+  - title: The Secret Lives of Animals
+    seasons: [1]
+    status: finished
+
+  - title: The Completely Made-Up Adventures of Dick Turpin
+    seasons: [1]
+    status: finished
+
+  - title: Black Bird
+    seasons: [1]
+    status: finished
+
+  - title: Murderbot
+    seasons: [1]
+    status: finished
+
+  - title: Lessons in Chemistry
+    seasons: [1]
+    status: finished
+
+  - title: Your Friends & Neighbors
+    seasons: [1]
+    status: finished
+
+  - title: Carême
+    seasons: [1]
+    status: finished
+
+  - title: 'Vietnam: The War That Changed America'
+    status: finished
+
+  - title: Pachinko
+    seasons: [1, 2]
+    status: finished
+
+  - title: Underdogs
+    seasons: [1]
+    status: finished
+
   - title: 'Gordon Ramsay: Uncharted'
     type: series # or movie, needed?
     seasons: [4]
