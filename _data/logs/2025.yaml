@@ -21,15 +21,15 @@ books:
     authors: [Felienne Hermans]
     status: reading
 
-movies: # movies_series
+movies:
   - title: 'Dune: Prophecy'
-    seasons: [1]
     imdb_id: tt10466872
+    seasons: [1]
     status: finished
 
   - title: 'Selena + Chef: Home for the Holidays'
-    seasons: [1]
     imdb_id: tt27791093
+    seasons: [1]
     status: finished
 
   - title: A Real Pain
@@ -37,8 +37,8 @@ movies: # movies_series
     status: finished
 
   - title: Queer Eye
-    seasons: [9]
     imdb_id: tt7259746
+    seasons: [9]
     status: finished
 
   - title: Buy Now! The Shopping Conspiracy
@@ -46,21 +46,22 @@ movies: # movies_series
     status: finished
 
   - title: Cien años de soledad
-    seasons: [1]
     imdb_id: tt9892936
+    seasons: [1]
     status: finished
 
-  - title: 'Monsters: The Lyle and Erik Menendez Story 🏅'
+  - title: 'Monsters: The Lyle and Erik Menendez Story'
     imdb_id: tt13207736
     status: finished
+    labels: [favorite]
 
   - title: The Menendez Brothers
     imdb_id: tt33481094
     status: finished
 
   - title: Mr. McMahon
-    seasons: [1]
     imdb_id: tt33301469
+    seasons: [1]
     status: finished
 
   - title: Inside the Mind of a Dog
@@ -122,114 +123,117 @@ movies: # movies_series
     status: finished
 
   - title: Shrinking
-    seasons: [2]
     imdb_id: tt15677150
+    seasons: [2]
     status: finished
 
-  - title: Severance 🏅
-    seasons: [2]
+  - title: Severance
     imdb_id: tt11280740
+    seasons: [2]
     status: finished
+    labels: [favorite]
 
   - title: The Reluctant Traveler with Eugene Levy
-    seasons: [2]
     imdb_id: tt15822846
+    seasons: [2]
     status: finished
 
-  - title: Silo 🏅
-    seasons: [2]
+  - title: Silo
     imdb_id: tt14688458
+    seasons: [2]
     status: finished
+    labels: [favorite]
 
   - title: Mythic Quest
-    seasons: [4]
     imdb_id: tt8879940
+    seasons: [4]
     status: finished
 
   - title: Omnivore
-    seasons: [1]
     imdb_id: tt18225192
+    seasons: [1]
     status: finished
 
   - title: Side Quest
-    seasons: [1]
     imdb_id: tt24512588
+    seasons: [1]
     status: finished
 
   - title: The Studio
-    seasons: [1]
     imdb_id: tt23649128
+    seasons: [1]
     status: finished
 
   - title: Hacks
-    seasons: [4]
     imdb_id: tt11815682
+    seasons: [4]
     status: finished
 
   - title: The Wild Robot
     imdb_id: tt29623480
     status: finished
 
-  - title: Slow Horses 🏅
-    seasons: [1, 2, 3, 4]
+  - title: Slow Horses
     imdb_id: tt5875444
+    seasons: [1, 2, 3, 4]
     status: finished
+    labels: [favorite]
 
   - title: The Secret Lives of Animals
-    seasons: [1]
     imdb_id: tt34555672
+    seasons: [1]
     status: finished
 
   - title: The Completely Made-Up Adventures of Dick Turpin
-    seasons: [1]
     imdb_id: tt19516036
+    seasons: [1]
     status: finished
 
   - title: Black Bird # mini series
-    seasons: [1]
     imdb_id: tt4301160
+    seasons: [1]
     status: finished
 
   - title: Murderbot
-    seasons: [1]
     imdb_id: tt30444310
+    seasons: [1]
     status: finished
 
   - title: Lessons in Chemistry # mini series
-    seasons: [1]
     imdb_id: tt13911628
+    seasons: [1]
     status: finished
 
   - title: Your Friends & Neighbors
-    seasons: [1]
     imdb_id: tt30459041
+    seasons: [1]
     status: finished
 
   - title: Carême
-    seasons: [1]
     imdb_id: tt6418084
+    seasons: [1]
     status: finished
 
   - title: 'Vietnam: The War That Changed America'
-    seasons: [1]
     imdb_id: tt35407689
+    seasons: [1]
     status: finished
 
   - title: Pachinko
-    seasons: [1, 2]
     imdb_id: tt8888462
+    seasons: [1, 2]
     status: finished
 
   - title: Underdogs
-    seasons: [1]
     imdb_id: tt26229000
+    seasons: [1]
     status: finished
 
   - title: 'Gordon Ramsay: Uncharted'
-    type: series # or movie, needed?
-    seasons: [4]
     imdb_id: tt9165706
+    seasons: [4]
     status: watching
+    # type: series # or movie, needed?
 
 video_games:
   - title: Blue Prince
