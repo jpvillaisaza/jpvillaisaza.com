@@ -1,10 +1,22 @@
+titles:
+  - title: Final Fantasy XVI
+    type: video_game
+    imdb_id: tt13103328
+    platform: PlayStation 5
+    labels: [favorite]
 
-video_games:
-  - title: Final Fantasy XVI 🏅
-    platform: PlayStation 5
   - title: Diablo IV
+    type: video_game
+    imdb_id: tt11261148
     platform: PlayStation 5
-  - title: Hogwarts Legacy 🏅🐛
+
+  - title: Hogwarts Legacy
+    type: video_game
+    imdb_id: tt13107970
     platform: PlayStation 5
+    labels: [favorite, buggy]
+
   - title: It Takes Two
+    type: video_game
+    imdb_id: tt18183072
     platform: PlayStation 5
