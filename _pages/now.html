@@ -28,35 +28,34 @@ title: Now
 
 <h2>Watching</h2>
 
-{% assign movies = data.movies | where: 'status', 'watching' -%}
-{% if movies.size > 0 %}
+{% assign titles = data.titles | where: 'status', 'watching' -%}
+{% if titles.size > 0 %}
 <ul>
-  {% for movie in movies %}
+  {% for title in titles %}
   <li>
-    <cite>{{ movie.title | normalize_whitespace }}</cite>
-    {% if movie.seasons and movie.seasons.size == 1 %}
-    (Season {{ movie.seasons }})
+    <cite>{{ title.title | normalize_whitespace }}</cite>
+    {% if title.seasons and title.seasons.size == 1 %}
+    (Season {{ title.seasons }})
     {% else %}
-    (Seasons {{ movie.seasons | array_to_sentence_string }})
+    (Seasons {{ title.seasons | array_to_sentence_string }})
     {% endif %}
   </li>
   {% endfor %}
 </ul>
 {% else %}
 <p>
-  No movies!
+  No series!
 </p>
 {% endif %}
 
 <h2>Playing</h2>
 
-{% assign games = data.video_games | where: 'status', 'playing' -%}
+{% assign games = data.titles | where: 'status', 'playing' -%}
 {% if games.size > 0 %}
 <ul>
   {% for game in games %}
   <li>
-    <cite>{{ game.title }}</cite>
-    ({{ game.platform }})
+    <cite>{{ game.title }}</cite> ({{ game.platform }})
   </li>
   {% endfor %}
 </ul>
