@@ -1,0 +1,297 @@
+books:
+  - title: 'Nicely Said: Writing for the Web with Style and Purpose'
+    authors: [Nicole Fenton, Kate Kiefer Lee]
+    status: finished
+
+  - title: Why I Am Catholic (and You Should Be Too)
+    authors: [Brandon Vogt]
+    status: finished
+
+  - title: 'Waking Up: Searching for spirituality without religion'
+    authors: [Sam Harris]
+    status: finished
+
+  - title: Marco Aurelio y los límites del imperio
+    authors: [Pablo Montoya]
+    status: finished
+
+  - title: >
+      The Programmer's Brain: What every programmer needs to know
+      about cognition
+    authors: [Felienne Hermans]
+    status: reading
+
+titles:
+  - title: 'Dune: Prophecy'
+    type: series
+    imdb_id: tt10466872
+    seasons: [1]
+    status: finished
+
+  - title: 'Selena + Chef: Home for the Holidays'
+    type: series
+    imdb_id: tt27791093
+    seasons: [1]
+    status: finished
+
+  - title: A Real Pain
+    type: movie
+    imdb_id: tt21823606
+    status: finished
+
+  - title: Queer Eye
+    type: series
+    imdb_id: tt7259746
+    seasons: [9]
+    status: finished
+
+  - title: Buy Now! The Shopping Conspiracy
+    type: movie
+    imdb_id: tt34350086
+    status: finished
+
+  - title: Cien años de soledad
+    type: series
+    imdb_id: tt9892936
+    seasons: [1]
+    status: finished
+
+  - title: 'Monsters: The Lyle and Erik Menendez Story'
+    type: series
+    imdb_id: tt13207736
+    status: finished
+    labels: [favorite]
+
+  - title: The Menendez Brothers
+    type: movie
+    imdb_id: tt33481094
+    status: finished
+
+  - title: Mr. McMahon
+    type: series
+    imdb_id: tt33301469
+    seasons: [1]
+    status: finished
+
+  - title: Inside the Mind of a Dog
+    type: movie
+    imdb_id: tt32907397
+    status: finished
+
+  - title: Inside the Mind of a Cat
+    type: movie
+    imdb_id: tt21340412
+    status: finished
+
+  - title: Conclave
+    type: movie
+    imdb_id: tt20215234
+    status: finished
+
+  - title: Cunk on Life
+    type: movie
+    imdb_id: tt34874258
+    status: finished
+
+  - title: Secret World of Sound with David Attenborough
+    type: series
+    imdb_id: tt31186319
+    seasons: [1]
+    status: finished
+
+  - title: Our Oceans
+    type: series
+    imdb_id: tt23181400
+    seasons: [1]
+    status: finished
+
+  - title: How to Become a Mob Boss
+    type: series
+    imdb_id: tt29541632
+    seasons: [1]
+    status: finished
+
+  - title: Adolescence
+    type: series
+    imdb_id: tt31806037
+    seasons: [1]
+    status: finished
+
+  - title: Avicii - I'm Tim
+    type: movie
+    imdb_id: tt32138523
+    status: finished
+
+  - title: The Whale
+    type: movie
+    imdb_id: tt13833688
+    status: finished
+
+  - title: Avicii - My Last Show
+    type: movie
+    imdb_id: tt34619547
+    status: finished
+
+  - title: What's Next? The Future with Bill Gates
+    type: series
+    imdb_id: tt33184626
+    seasons: [1]
+    status: finished
+
+  - title: >
+      Steve Martin and Martin Short: An Evening You Will Forget for
+      the Rest of Your Life
+    type: movie
+    imdb_id: tt8075256
+    status: finished
+
+  - title: Martha
+    type: movie
+    imdb_id: tt16227044
+    status: finished
+
+  - title: Shrinking
+    type: series
+    imdb_id: tt15677150
+    seasons: [2]
+    status: finished
+
+  - title: Severance
+    type: series
+    imdb_id: tt11280740
+    seasons: [2]
+    status: finished
+    labels: [favorite]
+
+  - title: The Reluctant Traveler with Eugene Levy
+    type: series
+    imdb_id: tt15822846
+    seasons: [2]
+    status: finished
+
+  - title: Silo
+    type: series
+    imdb_id: tt14688458
+    seasons: [2]
+    status: finished
+    labels: [favorite]
+
+  - title: Mythic Quest
+    type: series
+    imdb_id: tt8879940
+    seasons: [4]
+    status: finished
+
+  - title: Omnivore
+    type: series
+    imdb_id: tt18225192
+    seasons: [1]
+    status: finished
+
+  - title: Side Quest
+    type: series
+    imdb_id: tt24512588
+    seasons: [1]
+    status: finished
+
+  - title: The Studio
+    type: series
+    imdb_id: tt23649128
+    seasons: [1]
+    status: finished
+
+  - title: Hacks
+    type: series
+    imdb_id: tt11815682
+    seasons: [4]
+    status: finished
+
+  - title: The Wild Robot
+    type: movie
+    imdb_id: tt29623480
+    status: finished
+
+  - title: Slow Horses
+    type: series
+    imdb_id: tt5875444
+    seasons: [1, 2, 3, 4]
+    status: finished
+    labels: [favorite]
+
+  - title: The Secret Lives of Animals
+    type: series
+    imdb_id: tt34555672
+    seasons: [1]
+    status: finished
+
+  - title: The Completely Made-Up Adventures of Dick Turpin
+    type: series
+    imdb_id: tt19516036
+    seasons: [1]
+    status: finished
+
+  - title: Black Bird
+    type: series
+    imdb_id: tt4301160
+    seasons: [1]
+    status: finished
+
+  - title: Murderbot
+    type: series
+    imdb_id: tt30444310
+    seasons: [1]
+    status: finished
+
+  - title: Lessons in Chemistry
+    type: series
+    imdb_id: tt13911628
+    seasons: [1]
+    status: finished
+
+  - title: Your Friends & Neighbors
+    type: series
+    imdb_id: tt30459041
+    seasons: [1]
+    status: finished
+
+  - title: Carême
+    type: series
+    imdb_id: tt6418084
+    seasons: [1]
+    status: finished
+
+  - title: 'Vietnam: The War That Changed America'
+    type: series
+    imdb_id: tt35407689
+    seasons: [1]
+    status: finished
+
+  - title: Pachinko
+    type: series
+    imdb_id: tt8888462
+    seasons: [1, 2]
+    status: finished
+
+  - title: Underdogs
+    type: series
+    imdb_id: tt26229000
+    seasons: [1]
+    status: finished
+
+  - title: 'Gordon Ramsay: Uncharted'
+    type: series
+    imdb_id: tt9165706
+    seasons: [4]
+    status: finished
+
+  - title: Blue Prince
+    type: video_game
+    imdb_id: tt34929669
+    platform: PlayStation 5
+    status: playing
+
+  - title: The Bear
+    type: series
+    imdb_id: tt14452776
+    seasons: [4]
+    status: watching
