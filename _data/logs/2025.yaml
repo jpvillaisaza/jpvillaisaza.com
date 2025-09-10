@@ -15,11 +15,10 @@ books:
     authors: [Pablo Montoya]
     status: finished
 
-  - title: >
-      The Programmer's Brain: What every programmer needs to know
-      about cognition
+  - title: The Programmer's Brain
+    subtitle: What every programmer needs to know about cognition
     authors: [Felienne Hermans]
-    status: reading
+    status: finished
 
 titles:
   - title: 'Dune: Prophecy'
@@ -284,14 +283,13 @@ titles:
     seasons: [4]
     status: finished
 
-  - title: Blue Prince
-    type: video_game
-    imdb_id: tt34929669
-    platform: PlayStation 5
-    status: playing
-
   - title: The Bear
     type: series
     imdb_id: tt14452776
     seasons: [4]
     status: watching
+
+video_games:
+  - title: Blue Prince
+    platform: PlayStation 5
+    status: playing

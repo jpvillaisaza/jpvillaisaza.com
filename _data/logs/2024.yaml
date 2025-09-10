@@ -1,22 +1,89 @@
-titles:
+Books
+
+1. Improve Your Handwriting (Rosemary Sassoon, G SE Briem)
+2. In the Lives of Puppets (TJ Klune)
+3. El viejo malestar del Nuevo Mundo (Mauricio García Villegas)
+4. Las aventuras de Pinocho (Carlo Collodi)
+5. Why I Am Catholic (and You Should Be Too) (Brandon Vogt)
+6. Cuentos completos (Virginia Woolf)
+7. The Magic Finger (Roald Dahl)
+8. The Twits (Roald Dahl)
+    1. "Now and again," he said, "but not very often, I have a brilliant idea. This is one of them. Follow me, my friends, follow me."
+9. El infinito en un junco (Irene Vallejo)
+10. Relatos de mar y tierra (Álvaro Mutis)
+11. The Landslide (Stephen Gilbert)
+12. Qué es el budismo (Alicia Jurado, Jorge Luis Borges)
+13. Alguien habló de nosotros (Irene Vallejo)
+14. Design for Real Life (Eric Meyer, Sara Wachter-Boettcher)
+15. Practical SVG (Chris Coyier)
+16. Because English: Understanding the New Rules of Language (Gretchen McCulloch)
+
+Movies
+
+1. Barbie (IMDb)
+2. Asteroid City (IMDb)
+3. Dune: Part Two (IMDb)
+4. Wonka (IMDb)
+5. Trees, and Other Entanglements (IMDb)
+6. Oppenheimer (IMDb)
+7. Poor Things (IMDb)
+8. The Swan (IMDb)
+9. The Rat Catcher (IMDb)
+10. The Wonderful Story of Henry Sugar (IMDb)
+11. Poison (IMDb)
+12. Fantastic Beasts: A Natural History (IMDb)
+13. Beetlejuice Beetlejuice (IMDb)
+14. Money Electric: The Bitcoin Mystery (IMDb)
+15. The Wolf of Wall Street (IMDb)
+16. Interstellar (IMDb)
+17. Inside Out 2 (IMDb)
+18. Surveilled (IMDb)
+19. That Christmas (IMDb)
+
+Series
+
+1. For All Mankind (S4) (IMDb)
+2. Julia (S2) (IMDb)
+3. What Am I Eating? with Zooey Deschanel (S1) (IMDb)
+4. The Middle (S1–9) (IMDb) 🏅
+5. Malcolm in the Middle (S1–7) (IMDb)
+6. The Simpsons (S1–3) (IMDb)
+7. The Fall of the House of Usher (IMDb)
+8. Queer Eye (S8) (IMDb)
+9. Game of Thrones (S1–8) (IMDb)
+10. House of the Dragon (S1) (IMDb) 👎
+11. Succession (S1–4) (IMDb) 🏅
+12. Selena + Restaurant (S1) (IMDb)
+13. How to with John Wilson (S1–3) (IMDb)
+14. The Rehearsal (S1) (IMDb)
+15. McMillions (IMDb)
+16. Telemarketers (IMDb)
+17. Chimp Crazy (IMDb)
+18. Gaming Wall St (IMDb)
+19. Los 43 de Ayotzinapa: un crimen de estado (IMDb)
+20. Hacks (S1–3) (IMDb)
+21. Let Us Prey: A Ministry of Scandals (IMDb)
+22. Six Schizophrenic Brothers (IMDb)
+23. Only Murders in the Building (S4) (IMDb)
+24. Deadly Influence: The Social Media Murders (IMDb)
+25. The Bear (S1–3) (IMDb) 🏅
+26. Harry Potter: Wizards of Baking (S1) (IMDb)
+
+video_games:
   - title: Final Fantasy XVI
-    type: video_game
-    imdb_id: tt13103328
     platform: PlayStation 5
+    status: finished
     labels: [favorite]
 
   - title: Diablo IV
-    type: video_game
-    imdb_id: tt11261148
     platform: PlayStation 5
+    status: finished
 
   - title: Hogwarts Legacy
-    type: video_game
-    imdb_id: tt13107970
     platform: PlayStation 5
+    status: finished
     labels: [favorite, buggy]
 
   - title: It Takes Two
-    type: video_game
-    imdb_id: tt18183072
     platform: PlayStation 5
+    status: finished
