@@ -1,10 +1,40 @@
-- Donde cantan las ballenas (Sara Jaramillo Klinkert)
-- Under the Whispering Door (TJ Klune)
-- The Dead Hours of Night (Lisa Tuttle)
-- The Cook (Harry Kressing)
-- Cartas abiertas (Juan Esteban Constaín)
-- La viuda (José Saramago)
-- The House in the Cerulean Sea (TJ Klune)
-- Nunca lo hubiera dicho
-- The Leather Boys (Gillian Freeman)
-- The Youngest Director (Martyn Goff)
+books:
+  - title: Donde cantan las ballenas
+    authors: [Sara Jaramillo Klinkert]
+    status: finished
+
+  - title: Under the Whispering Door
+    authors: [TJ Klune]
+    status: finished
+
+  - title: The Dead Hours of Night
+    authors: [Lisa Tuttle]
+    status: finished
+
+  - title: The Cook
+    authors: [Harry Kressing]
+    status: finished
+
+  - title: Cartas abiertas
+    authors: [Juan Esteban Constaín]
+    status: finished
+
+  - title: La viuda
+    authors: [José Saramago]
+    status: finished
+
+  - title: The House in the Cerulean Sea
+    authors: [TJ Klune]
+    status: finished
+
+  - title: Nunca lo hubiera dicho
+    authors: []
+    status: finished
+
+  - title: The Leather Boys
+    authors: [Gillian Freeman]
+    status: finished
+
+  - title: The Youngest Director
+    authors: [Martyn Goff]
+    status: finished

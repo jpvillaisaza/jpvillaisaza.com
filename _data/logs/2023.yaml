@@ -1,4 +1,16 @@
-- The Code Book (Simon Singh)
-- Escrito en la piel del jaguar (Sara Jaramillo Klinkert)
-- Out for Blood (John Peyton Cooke)
-- Bittersweet (Susan Cain)
+books:
+  - title: The Code Book
+    authors: [Simon Singh]
+    status: finished
+
+  - title: Escrito en la piel del jaguar
+    authors: [Sara Jaramillo Klinkert]
+    status: finished
+
+  - title: Out for Blood
+    authors: [John Peyton Cooke]
+    status: finished
+
+  - title: Bittersweet
+    authors: [Susan Cain]
+    status: finished
