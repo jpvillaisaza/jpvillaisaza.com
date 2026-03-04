@@ -1,10 +1,13 @@
-{
-  pkgs ? import <nixpkgs> { },
-}:
+let
+  nixpkgs = fetchTarball "https://github.com/NixOS/nixpkgs/tarball/nixos-25.11";
+  pkgs = import nixpkgs { config = {}; overlays = []; };
+in
 
-pkgs.mkShell {
-  buildInputs = [
-    pkgs.jekyll
-    pkgs.rubyPackages.jekyll-redirect-from
+pkgs.mkShellNoCC {
+  packages = with pkgs; [
+    bundler
+    ruby
   ];
+
+  BUNDLE_PATH = "vendor/bundle";
 }
