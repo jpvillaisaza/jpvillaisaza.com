@@ -1,7 +1,5 @@
 let
-  channel = "nixos-25.11";
-  url = "https://github.com/NixOS/nixpkgs/archive/${channel}.tar.gz";
-  pkgs = import (fetchTarball url) { };
+  pkgs = import (fetchTarball "channel:nixos-25.11") { };
 in
 
 pkgs.mkShellNoCC {
