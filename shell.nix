@@ -1,10 +1,12 @@
-{
-  pkgs ? import <nixpkgs> { },
-}:
+let
+  pkgs = import (fetchTarball "channel:nixos-25.11") { };
+in
 
-pkgs.mkShell {
-  buildInputs = [
-    pkgs.jekyll
-    pkgs.rubyPackages.jekyll-redirect-from
+pkgs.mkShellNoCC {
+  packages = with pkgs; [
+    bundler
+    ruby
   ];
+
+  BUNDLE_PATH = "vendor/bundle";
 }
