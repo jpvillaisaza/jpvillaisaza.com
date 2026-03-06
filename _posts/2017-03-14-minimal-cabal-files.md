@@ -3,6 +3,7 @@ title: Minimal Cabal Files
 author: Juan Pedro Villa Isaza
 tags: haskell programming
 layout: post
+note: Republished in March 2026
 ---
 
 Every Haskell package has a [Cabal][cabal] file, which contains
